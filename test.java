@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
         System.out.printf("Change of code");
+        System.ouut.println("not 2024");
        
     }
 }
